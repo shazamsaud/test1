@@ -1,2 +1,2 @@
 # test1
-1st repo
+1st repo repo is repositry
